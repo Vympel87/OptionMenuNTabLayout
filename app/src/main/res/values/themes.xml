@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.OptionMenuNTabLayout" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Base application theme with ActionBar. -->
+    <style name="Base.Theme.OptionMenuNTabLayout.WithActionBar" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here, similar to the theme without ActionBar. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Themes that can be applied to the application or specific activities. -->
+    <style name="Theme.OptionMenuNTabLayout" parent="Base.Theme.OptionMenuNTabLayout" />
+    <style name="Theme.OptionMenuNTabLayout.WithActionBar" parent="Base.Theme.OptionMenuNTabLayout.WithActionBar" />
+
+</resources>
